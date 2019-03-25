@@ -102,7 +102,7 @@ public class AddTest {
 
     @Test
     public void should_return_whether_include_special_element() {
-        // 求数组中所有偶数组成的数组是否包含某特定的数specialElment
+        // 求数组中所有偶数组成的数组是否包含某特定的数specialElement
         Integer[] array = new Integer[]{1, 2, 3, 4, 5};
         List<Integer> arrayList = Arrays.asList(array);
 
